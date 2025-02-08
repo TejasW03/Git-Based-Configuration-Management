@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mC2M0DBTjhXGMTn2yGIoYBABPHJEZJvxFEDnBRBxtyY=",
+  "Source": "GitConfigManager",
+  "BasePath": "_content/GitConfigManager",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
